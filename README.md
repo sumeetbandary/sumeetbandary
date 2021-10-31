@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on NodeJs.
 
-- 🌱 I’m currently learning Backend engineering
+- 🌱 I’m currently learning Backend Development.
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
